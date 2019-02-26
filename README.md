@@ -1,7 +1,7 @@
 # Alexa-On-Android
 A simple demo for connecting with AVS (Alexa Voice Service) in the Android App
 
-[![Video](https://img.youtube.com/vi/6sE1jpbmjEE/0.jpg)](https://youtu.be/6sE1jpbmjEE)
+[![Click to play](https://imgur.com/qxIV1LU)](https://youtu.be/6sE1jpbmjEE)
 
 ## ScreenShot
 <html>
